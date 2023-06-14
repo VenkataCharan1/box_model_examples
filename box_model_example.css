@@ -1,0 +1,19 @@
+.box_model{
+ width: 350px;
+ height: 450px;
+ padding: 10px;
+ border: 1px solid black;
+ border-radius: 35px;
+}
+
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.btn{
+    border-radius: none;
+    color: rgb(6, 153, 238);
+
+}
